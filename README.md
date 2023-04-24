@@ -1,13 +1,17 @@
 # Networks
 
-This repository shows examples of interaction networks constructed PathwayMatcher based on annotations in Reactome.
+This repository shows examples of interaction networks constructed with Reactome v84
+
+## Genes
+* [Genes list](Proteins/proteins_v84.tsv)
+* [Gene Network (nodes and connections)](Interactomes/Genes.zip)
 
 ## Proteins
 
-* [Protein list](Proteins/all_proteins_v72.csv)
-* [Protein Network (vertices and edges)](CompleteNetworks/Proteins.zip)
+* [Proteins list](Proteins/proteins_v84.tsv)
+* [Protein Network (nodes and connections)](Interactomes/Proteins.zip)
 
 ## Proteoforms
 
-* [Proteoform list](Proteoforms/all_proteoforms_v72.csv)
-* [Proteoform Network (vertices and edges)](CompleteNetworks/Proteoforms.zip)
+* [Proteoforms list](Proteoforms/all_proteoforms_v72.csv)
+* [Proteoform Network (nodes and connections)](Interactomes/Proteoforms.zip)
