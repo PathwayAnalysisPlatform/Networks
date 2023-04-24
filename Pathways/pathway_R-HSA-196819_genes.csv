@@ -1,0 +1,6 @@
+,Pathway,Reaction,Entity,Name,Type,Id,Database,Role
+0,R-HSA-196819,R-HSA-196761,R-HSA-196953,TPK1,EntityWithAccessionedSequence,TPK1,UniProt,catalystActivity
+1,R-HSA-196819,R-HSA-199626,R-HSA-199643,SLC19A3,EntityWithAccessionedSequence,SLC19A3,UniProt,catalystActivity
+2,R-HSA-196819,R-HSA-199626,R-HSA-199636,SLC19A2,EntityWithAccessionedSequence,SLC19A2,UniProt,catalystActivity
+3,R-HSA-196819,R-HSA-8875838,R-HSA-5215935,SLC25A19,EntityWithAccessionedSequence,SLC25A19,UniProt,catalystActivity
+4,R-HSA-196819,R-HSA-965067,R-HSA-964976,THTPA,EntityWithAccessionedSequence,THTPA,UniProt,catalystActivity
