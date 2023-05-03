@@ -3,15 +3,25 @@
 This repository shows examples of interaction networks constructed with Reactome v84
 
 ## Genes
-* [Genes list](Proteins/proteins_v84.tsv)
-* [Gene Network (nodes and connections)](Interactomes/genes.zip)
+* [Genes list](Interactomes/genes_v84.tsv)
+* [Gene Network without small molecules](Interactomes/Genes_No_Small_Molecules)
+* [Gene Network with small molecules](Interactomes/Genes_With_Small_Molecules)
+* [Gene Network with reaction unique small molecules](Interactomes/Genes_With_Reaction_Unique_Small_Molecules)
 
 ## Proteins
 
-* [Proteins list](Proteins/proteins_v84.tsv)
-* [Protein Network (nodes and connections)](Interactomes/proteins.zip)
+* [Proteins list](Interactomes/proteins_v84.tsv)
+* [Protein Network without small molecules](Interactomes/Proteins_No_Small_Molecules)
+* [Protein Network with small molecules](Interactomes/Proteins_With_Small_Molecules)
+* [Protein Network with reaction unique small molecules](Interactomes/Proteins_With_Reaction_Unique_Small_Molecules)
 
 ## Proteoforms
 
-* [Proteoforms list](Proteoforms/all_proteoforms_v72.csv)
-* [Proteoform Network (nodes and connections)](Interactomes/proteoforms.zip)
+* [Proteoforms list](Interactomes/proteoforms_v84.tsv)
+* [Proteoform Network without small molecules](Interactomes/Proteoforms_No_Small_Molecules)
+* [Proteoform Network with small molecules](Interactomes/Proteoforms_With_Small_Molecules)
+* [Proteoform Network with reaction unique small molecules](Interactomes/Proteoforms_With_Reaction_Unique_Small_Molecules)
+
+## Small molecules
+
+* [Small molecules list](Interactomes/small_molecules_v84.tsv)
