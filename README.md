@@ -25,3 +25,7 @@ This repository shows examples of interaction networks constructed with Reactome
 ## Small molecules
 
 * [Small molecules list](Interactomes/small_molecules_v84.tsv)
+
+## Mapping from genes to proteoforms
+
+* [Map from genes to proteins to proteoforms](Interactomes/genes_to_proteins_to_proteoforms.csv-20230518T123842Z-001.zip)
